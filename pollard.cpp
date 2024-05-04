@@ -1,5 +1,4 @@
-<snippet>
-	<content><![CDATA[
+
 
 namespace fast_factrize{
   long long fast_factrize_pow(long long n,long long k,const long long mod){
@@ -125,9 +124,11 @@ using namespace fast_factrize;
 n<=1e18 with t=1000 tested: https://atcoder.jp/contests/abc293/submissions/39622575 =>438 ms
 */
 
+/*
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>pollard</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.c++</scope>
 </snippet>
+*/
